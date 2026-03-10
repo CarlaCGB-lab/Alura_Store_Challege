@@ -14,5 +14,24 @@ El desafío se trata de ayudar al Sr. Juan a decidir qué tienda de su cadena Al
 - Analizar métricas como ingresos, reseñas y rendimiento de ventas.
 - Elaborar una recomendación y conclusión final fundamentada por el análisis.
 
+## Insights del proyecto
+Se importo la base de datos y se genero sus respectivas tablas por tienda, siendo ejemplo la siguiente imagen de la tienda 1:
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/7654989c-5c01-4f4f-a44f-249e227b8d46" />
+
+
+Entre los graficos obtenidos en el proyecot se tiene el grafico de barras de ventas totales por tienda: 
+
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/503c2037-7579-4bbd-91bc-73a6801ccf2b" />
+
+Y se genero mas informacion con los analisis realizados.
+
+## Instrucciones de ejecución
+ - Clonar este repositorio (si aplica) o descargar el archivo .ipynb y los archivos .csv.
+ - Asegurarse de tener Python y las bibliotecas requeridas instaladas:pip install pandas matplotlib seaborn
+ - Abrir y ejecutar el notebook AluraStoreLatam.ipynb en un entorno Jupyter (como Jupyter Lab, Jupyter Notebook clásico, o Google Colab).  - Las celdas deben ejecutarse en orden.
+
+
+
 
 
